@@ -1,0 +1,6 @@
+www.splunk.com:443
+apps-api.splunk.com:443
+sandbox-apps-api.splunk.com:443
+www.google.com:443
+wwww.splunk.com:443
+splunkcasemanagementstg.cloudhub.io:443
